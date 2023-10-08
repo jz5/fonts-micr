@@ -18,6 +18,7 @@
 | セガ「**スペースオデッセイ** (Space Odyssey)」(1981) | MysteriousPlanet |
 |  Exidy (NA)、タイトー、エスコ貿易 (JP)「**スターファイヤー** (Star Fire)」(1978, 1979) | Starfighter |
 | 日本物産「**F1サーカス** (F1 Circus)」(1990) | Pit |
+| タイトー「**ハレーズコメット** (Halley's Comet)」(1986) | Planets |
 
 ## 映画
 
