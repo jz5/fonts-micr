@@ -5085,6 +5085,21 @@ type = descender;
 );
 note = "https://ameblo.jp/gzzms1126/entry-12726009646.html
 ";
+properties = (
+{
+key = vendorID;
+value = PRNM;
+},
+{
+key = descriptions;
+values = (
+{
+language = ENG;
+value = "Font for F1 Circus, a PC Engine game released by Nichibutsu in 1990.";
+}
+);
+}
+);
 settings = {
 gridLength = 100;
 gridSubDivision = 100;

@@ -1,11 +1,6 @@
 {
 .appVersion = "3221";
 .formatVersion = 3;
-DisplayStrings = (
-":",
-".",
-"-"
-);
 customParameters = (
 {
 name = glyphOrder;
